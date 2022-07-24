@@ -11,4 +11,7 @@ package pokemongo;
  */
 public class ClasseTeste {
     
+    public void teste() {
+        System.out.println("Nova classe");
+    }
 }
