@@ -18,7 +18,7 @@ public class Aplicacao {
 
         poke.impressaoAtaques();
 
-        System.out.println("Posição do ataque:" + poke.posAtaque("Chute"));
+        System.out.println("Modo de ataque:" + poke.posAtaque("Chute"));
         poke.nomeAtaques(2); // retorna a posição do ataque
         }
 }
